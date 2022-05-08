@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is a data analytics KNIME project 
 <!--
 **JustinaHammond/JustinaHammond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
