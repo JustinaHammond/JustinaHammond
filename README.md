@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is a data analytics KNIME project 
+This is a data analytics KNIME project on the six phases involved in the CRISP-DM framework, to describe the data science life cycle
 <!--
 **JustinaHammond/JustinaHammond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
